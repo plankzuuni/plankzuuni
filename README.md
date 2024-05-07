@@ -1,0 +1,6 @@
+- 👋 Hi, I’m plankzuuni
+- 👀 I’m interested in programing backend and frontend
+- 🌱 I’m currently learning c# can other languages
+- 💞️ I’m looking to collaborate on backend
+- 📫 How to reach me message me on github
+- 😄 Pronouns: he/him
